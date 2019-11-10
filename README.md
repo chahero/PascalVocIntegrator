@@ -1,12 +1,11 @@
-# PascalVoc2DetEval
+# PascalVocIntegrator
+ C# implementation project integrating several PascalVoc onto one unified pascal voc.
 
-This project is an C# implementation project from PascalVoc voc format to DetEval format.
-
-Supported functions
+#Supported functions
 - Drag and drop
-- Read PascalVoc XMl format
-- Save as DetEval XML format
+- Read several PascalVoc XMl format
+- Integrate several PascalVoc format into Unified PascalVoc format
 
-Used Environments
+#Used Environments
 - Tool: Visual Studio 2015
 - Language: C#
