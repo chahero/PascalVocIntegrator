@@ -1,0 +1,27 @@
+C:\Users\user\Desktop\도면인식\PascalVoc2DetEval\PascalVoc2DetEval\bin\Debug\PascalVoc2DetEval.exe.config
+C:\Users\user\Desktop\도면인식\PascalVoc2DetEval\PascalVoc2DetEval\bin\Debug\PascalVoc2DetEval.exe
+C:\Users\user\Desktop\도면인식\PascalVoc2DetEval\PascalVoc2DetEval\bin\Debug\PascalVoc2DetEval.pdb
+C:\Users\user\Desktop\도면인식\PascalVoc2DetEval\PascalVoc2DetEval\obj\Debug\PascalVoc2DetEval.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\도면인식\PascalVoc2DetEval\PascalVoc2DetEval\obj\Debug\PascalVoc2DetEval.Properties.Resources.resources
+C:\Users\user\Desktop\도면인식\PascalVoc2DetEval\PascalVoc2DetEval\obj\Debug\PascalVoc2DetEval.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\도면인식\PascalVoc2DetEval\PascalVoc2DetEval\obj\Debug\PascalVoc2DetEval.exe
+C:\Users\user\Desktop\도면인식\PascalVoc2DetEval\PascalVoc2DetEval\obj\Debug\PascalVoc2DetEval.pdb
+C:\Users\user\Desktop\도면인식\PascalVoc2DetEval\PascalVoc2DetEval\obj\Debug\PascalVoc2DetEval.FormConvertPascalVocToDetEval.resources
+C:\Users\user\Desktop\도면인식\PascalVoc2DetEval_20191004\PascalVoc2DetEval\bin\Debug\PascalVoc2DetEval.exe.config
+C:\Users\user\Desktop\도면인식\PascalVoc2DetEval_20191004\PascalVoc2DetEval\obj\Debug\PascalVoc2DetEval.exe
+C:\Users\user\Desktop\도면인식\PascalVoc2DetEval_20191004\PascalVoc2DetEval\obj\Debug\PascalVoc2DetEval.pdb
+C:\Users\user\Desktop\도면인식\PascalVoc2DetEval_20191004\PascalVoc2DetEval\bin\Debug\PascalVoc2DetEval.exe
+C:\Users\user\Desktop\도면인식\PascalVoc2DetEval_20191004\PascalVoc2DetEval\bin\Debug\PascalVoc2DetEval.pdb
+C:\Users\user\Desktop\도면인식\PascalVoc2DetEval_20191004\PascalVoc2DetEval\obj\Debug\PascalVoc2DetEval.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\도면인식\PascalVoc2DetEval_20191004\PascalVoc2DetEval\obj\Debug\PascalVoc2DetEval.FormConvertPascalVocToDetEval.resources
+C:\Users\user\Desktop\도면인식\PascalVoc2DetEval_20191004\PascalVoc2DetEval\obj\Debug\PascalVoc2DetEval.Properties.Resources.resources
+C:\Users\user\Desktop\도면인식\PascalVoc2DetEval_20191004\PascalVoc2DetEval\obj\Debug\PascalVoc2DetEval.csproj.GenerateResource.Cache
+H:\Project\진행 중\20180401~20201231, 이미지 도면 인식\공통사항\PascalVocIntegrator\PascalVocIntegrator_20191025\PascalVoc2DetEval\bin\Debug\PascalVoc2DetEval.exe.config
+H:\Project\진행 중\20180401~20201231, 이미지 도면 인식\공통사항\PascalVocIntegrator\PascalVocIntegrator_20191025\PascalVoc2DetEval\obj\Debug\PascalVoc2DetEval.exe
+H:\Project\진행 중\20180401~20201231, 이미지 도면 인식\공통사항\PascalVocIntegrator\PascalVocIntegrator_20191025\PascalVoc2DetEval\obj\Debug\PascalVoc2DetEval.pdb
+H:\Project\진행 중\20180401~20201231, 이미지 도면 인식\공통사항\PascalVocIntegrator\PascalVocIntegrator_20191025\PascalVoc2DetEval\bin\Debug\PascalVoc2DetEval.exe
+H:\Project\진행 중\20180401~20201231, 이미지 도면 인식\공통사항\PascalVocIntegrator\PascalVocIntegrator_20191025\PascalVoc2DetEval\bin\Debug\PascalVoc2DetEval.pdb
+H:\Project\진행 중\20180401~20201231, 이미지 도면 인식\공통사항\PascalVocIntegrator\PascalVocIntegrator_20191025\PascalVoc2DetEval\obj\Debug\PascalVoc2DetEval.csprojResolveAssemblyReference.cache
+H:\Project\진행 중\20180401~20201231, 이미지 도면 인식\공통사항\PascalVocIntegrator\PascalVocIntegrator_20191025\PascalVoc2DetEval\obj\Debug\PascalVoc2DetEval.Properties.Resources.resources
+H:\Project\진행 중\20180401~20201231, 이미지 도면 인식\공통사항\PascalVocIntegrator\PascalVocIntegrator_20191025\PascalVoc2DetEval\obj\Debug\PascalVoc2DetEval.csproj.GenerateResource.Cache
+H:\Project\진행 중\20180401~20201231, 이미지 도면 인식\공통사항\PascalVocIntegrator\PascalVocIntegrator_20191025\PascalVoc2DetEval\obj\Debug\PascalVoc2DetEval.FormMain.resources
